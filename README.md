@@ -9,7 +9,7 @@ I'm Mitali Agrawal, Student at 👨‍💻 JECRC University pursuing B.Tech Comp
 ## 🧐 About
 - 🏄‍ Community girl who loves being involved in communities and help students grow
 - 😄 I have been be a part of ideathon , hackathons as a #Participant and as a #Volunteer
-- 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guide of my peers related to my tech field.
+- 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guide my peers related to my tech field.
 - ⚡ I’m currently learning about all advance Concepts of C++ , Data Structure and Algorithms and looking forward in the field of Android. 
 - 👯 And Many More...
 
@@ -19,7 +19,7 @@ I'm Mitali Agrawal, Student at 👨‍💻 JECRC University pursuing B.Tech Comp
 - 💬 Ask me about anything at anytime !! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919521420481)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older than me  and also interested in eating various food! 
-- 💬 Ping Me about #Android Development , #C-Language, #C++, #Speaking opportunity, and anything you like
+- 💬 Ping Me about #Android Development , #C-Language, #C++, #DSA, #Speaking opportunity, and anything you like.
 ---
 ![Mitali's github stats](https://github-readme-stats.vercel.app/api?username=mitali-1703&show_icons=true)
 
