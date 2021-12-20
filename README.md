@@ -3,8 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@mitaliagrawal4321-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mitaliagrawal4321/)](https://medium.com/@mitaliagrawal4321/)
 [![Gmail Badge](https://img.shields.io/badge/-mitaliagrawal4321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitaliagrawal4321@gmail.com)](mailto:mitaliagrawal4321@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/mitali-1703?label=Follow&style=social)](https://github.com/mitali-1703/?tab=follow)
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitali-1703" alt="Mitali" /> </p></br>
+--- 
 
 ## Hi there 👋,           
 I'm Mitali Agrawal, a Junior Year Computer Science Engineering Undergrad at 👨‍💻 JECRC University pursuing B.Tech Computer Science.  I am a tech and coding enthusiast with a strong passion to be an Android Developer and want to see myself as a Software Developer in future. I love spending time with techy stuffs, exploring new things and socializing.
@@ -27,16 +26,19 @@ I'm Mitali Agrawal, a Junior Year Computer Science Engineering Undergrad at 👨
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older than me  and also interested in eating various food! 
 - 💬 Ping Me about #Android Development , #C-Language, #C++, #DSA, #Speaking opportunity, and anything you like.
 ---
-**Languages and Tools I know well:**  
+**Languages and Tools familiar or experience with:**
+
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code> 
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code> 
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -49,4 +51,17 @@ I'm Mitali Agrawal, a Junior Year Computer Science Engineering Undergrad at 👨
 
 ---
 ![Mitali's github stats](https://github-readme-stats.vercel.app/api?username=mitali-1703&show_icons=true)
+<hr>
+<p align="center">
+   <i>Let's connect and chat! Open to anything under the sun.</i>
+  <p align="center">
+    <a href="https://twitter.com/MitaliAgrawal17" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/mitaliagrawal17/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:mitaliagrawal4321@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
+  <p align="center">  
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
+  </p>
+</p>
 
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
