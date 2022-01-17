@@ -22,7 +22,6 @@ I'm Mitali Agrawal, a Junior Year Computer Science Engineering Undergrad at 👨
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything at anytime !! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919521420481)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older than me  and also interested in eating various food! 
 - 💬 Ping Me about #Android Development , #C-Language, #C++, #DSA, #Speaking opportunity, and anything you like.
 ---
@@ -60,7 +59,7 @@ I'm Mitali Agrawal, a Junior Year Computer Science Engineering Undergrad at 👨
     <a href="mailto:mitaliagrawal4321@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
   <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mitali-1703.visitor-badge"> 
   </p>
 </p>
 
