@@ -12,7 +12,7 @@ I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨�
 - 🏄‍ Community girl who loves being involved in communities and help students grow.
 - 😄 I love participating in hackathons and open-source programs a lot.
 - 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guide my peers related to my tech field.
-- 🔭 I have worked as a Web Development Co-Lead and as an Android Development Co-Lead at GDSC-JU for a tenure of 12 months.
+- 🔭 I have worked as a Web Development Co-Lead(2020-2021) and as an Android Development Co-Lead(2021-2022) at GDSC-JU in both fields for a tenure of 12 months.
 - ⚡ After exploring Web Development for about 10months, I have recently started with Android development and I am literally loving it and working daily on it to be better than what I was yesterday.
 - ⚡ I know C , C++ , Core Java and basic level of Data Structures and Algorithms.
 - ⚡ When I'm not doing something for enhancing my skills or exploring opportunities, I focus on skilling and learning for future steps of my career. I don't like to waste a second of my time doing something that's not profitable for my career or fitness while owning my actions rather than waiting for an outcome.
