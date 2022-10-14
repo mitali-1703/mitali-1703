@@ -6,15 +6,12 @@
 --- 
 
 ## Hi there 👋,           
-I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨‍💻 JECRC University pursuing B.Tech Computer Science.  I am a tech and coding enthusiast with a strong passion to be an Android Developer and want to see myself as a skilled Software Engineer in future. I love spending time with techy stuffs, exploring new things and socializing.
+I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨‍💻 JECRC University pursuing B.Tech Computer Science.  I am a tech and coding enthusiast with a strong passion to be a Full Stack Developer and want to see myself as a skilled Software Engineer in future. I love spending time with techy stuffs, exploring new things and socializing.
 
 ## 🧐 About
 - 🏄‍ Community girl who loves being involved in communities and help students grow.
 - 😄 I love participating in hackathons and open-source programs a lot.
-- 🌱 I love to speak at public events and looking forward  as a motivator at many events. I also guide my peers related to my tech field.
-- 🔭 I have worked as a Web Development Co-Lead(2020-2021) and as an Android Development Co-Lead(2021-2022) at GDSC-JU in both fields for a tenure of 12 months.
-- ⚡ After exploring Web Development for about 10months, I have recently started with Android development and I am literally loving it and working daily on it to be better than what I was yesterday.
-- ⚡ I know C , C++ , Core Java and basic level of Data Structures and Algorithms.
+- 🔭 I have worked as a Web Development Co-Lead(2020-2021) and as an Android Development Co-Lead(2021-2022) at GDSC-JU in both fields for a tenure of 12 months each.
 - ⚡ When I'm not doing something for enhancing my skills or exploring opportunities, I focus on skilling and learning for future steps of my career. I don't like to waste a second of my time doing something that's not profitable for my career or fitness while owning my actions rather than waiting for an outcome.
 - 👯 And Many More...
 
@@ -23,7 +20,7 @@ I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨�
 
 - 💬 Ask me about anything at anytime !! 
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older than me  and also interested in eating various food! 
-- 💬 Ping Me about #Android Development , #C-Language, #C++, #DSA, #Speaking opportunity, and anything you like.
+- 💬 Ping Me about #Web development , #Android Development , #C-Language, #C++, #DSA, #Speaking opportunity, and anything you like.
 ---
 **Languages and Tools familiar or experience with:**
 
@@ -33,9 +30,7 @@ I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨�
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code> 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code> 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
@@ -61,7 +56,23 @@ I'm Mitali Agrawal, a Final Year Computer Science Engineering Undergrad at 👨�
          />
 
 </div>
+<br><br>
 
+  <div align="center">
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img
+        align="center"
+        width="50%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mitali-1703&theme=react&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+ 
+  </div>
+  
+  
+
+<!-- ![Mitali's github stats](https://github-readme-stats.vercel.app/api?username=mitali-1703&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true) -->
 
 
 
